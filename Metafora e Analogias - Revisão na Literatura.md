@@ -23,7 +23,7 @@ seres humanos, em que são produzidos pensamentos e
 atitudes, é, em sua natureza, fundamentalmente
 metafórico.
 
----
+##
 
 ### Quais são os tipos de metáforas?
 
