@@ -32,12 +32,12 @@ em dois tipos que se diferem pelo modo como são
 aplicadas, as quais são descritas a seguir com base em
 Cheon e Grant:
 
-a) Metáfora temática: faz o uso de um tema
+**a) Metáfora temática**: faz o uso de um tema
 metafórico que não reflete exatamente o conteúdo,
 mas o tema é familiar para os usuários, por
 exemplo, um livro ou pasta na tela do computador.
 
-b) Metáfora imersiva: formula um ambiente
+**b) Metáfora imersiva**: formula um ambiente
 autêntico que reflete os conteúdos de aprendizagem
 com sugestões estruturais e dicas organizacionais.
 Além disso, Cheon e Grant pontuam que
